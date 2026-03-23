@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\CsharpCompleto-ProgramacaoOrientadaObjetos\\Secao4-ClassAtribMet\\ExFixacao-MemEstaticos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8031B1-59DC-458D-809B-112966206CB0}|ExFixacao-MemEstaticos\\ExFixacao-MemEstaticos.csproj|c:\\dev\\csharpcompleto-programacaoorientadaobjetos\\secao4-classatribmet\\exfixacao-memestaticos\\exfixacao-memestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8031B1-59DC-458D-809B-112966206CB0}|ExFixacao-MemEstaticos\\ExFixacao-MemEstaticos.csproj|solutionrelative:exfixacao-memestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8031B1-59DC-458D-809B-112966206CB0}|ExFixacao-MemEstaticos\\ExFixacao-MemEstaticos.csproj|c:\\dev\\csharpcompleto-programacaoorientadaobjetos\\secao4-classatribmet\\exfixacao-memestaticos\\exfixacao-memestaticos\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8031B1-59DC-458D-809B-112966206CB0}|ExFixacao-MemEstaticos\\ExFixacao-MemEstaticos.csproj|solutionrelative:exfixacao-memestaticos\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConversorDeMoeda.cs",
+              "DocumentMoniker": "C:\\Dev\\CsharpCompleto-ProgramacaoOrientadaObjetos\\Secao4-ClassAtribMet\\ExFixacao-MemEstaticos\\ExFixacao-MemEstaticos\\ConversorDeMoeda.cs",
+              "RelativeDocumentMoniker": "ExFixacao-MemEstaticos\\ConversorDeMoeda.cs",
+              "ToolTip": "C:\\Dev\\CsharpCompleto-ProgramacaoOrientadaObjetos\\Secao4-ClassAtribMet\\ExFixacao-MemEstaticos\\ExFixacao-MemEstaticos\\ConversorDeMoeda.cs",
+              "RelativeToolTip": "ExFixacao-MemEstaticos\\ConversorDeMoeda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T21:44:56.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\CsharpCompleto-ProgramacaoOrientadaObjetos\\Secao4-ClassAtribMet\\ExFixacao-MemEstaticos\\ExFixacao-MemEstaticos\\Program.cs",
+              "RelativeDocumentMoniker": "ExFixacao-MemEstaticos\\Program.cs",
+              "ToolTip": "C:\\Dev\\CsharpCompleto-ProgramacaoOrientadaObjetos\\Secao4-ClassAtribMet\\ExFixacao-MemEstaticos\\ExFixacao-MemEstaticos\\Program.cs",
+              "RelativeToolTip": "ExFixacao-MemEstaticos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T21:44:36.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
