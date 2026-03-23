@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\CsharpCompleto-ProgramacaoOrientadaObjetos\\Secao3-LogicaDeProgramacao\\Exercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4504F049-85E0-009B-FDC7-8B9A1213A96E}|Exercicio1\\Exercicio1.csproj|c:\\dev\\csharpcompleto-programacaoorientadaobjetos\\secao3-logicadeprogramacao\\exercicio1\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4504F049-85E0-009B-FDC7-8B9A1213A96E}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4504F049-85E0-009B-FDC7-8B9A1213A96E}|Exercicio1\\Exercicio1.csproj|c:\\dev\\csharpcompleto-programacaoorientadaobjetos\\secao3-logicadeprogramacao\\exercicio1\\exercicio1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4504F049-85E0-009B-FDC7-8B9A1213A96E}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Dev\\CsharpCompleto-ProgramacaoOrientadaObjetos\\Secao3-LogicaDeProgramacao\\Exercicio1\\Exercicio1\\Product.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Product.cs",
+              "ToolTip": "C:\\Dev\\CsharpCompleto-ProgramacaoOrientadaObjetos\\Secao3-LogicaDeProgramacao\\Exercicio1\\Exercicio1\\Product.cs",
+              "RelativeToolTip": "Exercicio1\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:33:11.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\CsharpCompleto-ProgramacaoOrientadaObjetos\\Secao3-LogicaDeProgramacao\\Exercicio1\\Exercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Program.cs",
+              "ToolTip": "C:\\Dev\\CsharpCompleto-ProgramacaoOrientadaObjetos\\Secao3-LogicaDeProgramacao\\Exercicio1\\Exercicio1\\Program.cs",
+              "RelativeToolTip": "Exercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:32:35.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

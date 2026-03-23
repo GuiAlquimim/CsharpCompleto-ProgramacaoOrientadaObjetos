@@ -1,0 +1,14 @@
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\Primeiros-Exercicios-Ex02\Primeiros-Exercicios-Ex02\bin\Debug\net10.0\Primeiros-Exercicios-Ex02.exe
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\Primeiros-Exercicios-Ex02\Primeiros-Exercicios-Ex02\bin\Debug\net10.0\Primeiros-Exercicios-Ex02.deps.json
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\Primeiros-Exercicios-Ex02\Primeiros-Exercicios-Ex02\bin\Debug\net10.0\Primeiros-Exercicios-Ex02.runtimeconfig.json
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\Primeiros-Exercicios-Ex02\Primeiros-Exercicios-Ex02\bin\Debug\net10.0\Primeiros-Exercicios-Ex02.dll
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\Primeiros-Exercicios-Ex02\Primeiros-Exercicios-Ex02\bin\Debug\net10.0\Primeiros-Exercicios-Ex02.pdb
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\Primeiros-Exercicios-Ex02\Primeiros-Exercicios-Ex02\obj\Debug\net10.0\Primeiros-Exercicios-Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\Primeiros-Exercicios-Ex02\Primeiros-Exercicios-Ex02\obj\Debug\net10.0\Primeiros-Exercicios-Ex02.AssemblyInfoInputs.cache
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\Primeiros-Exercicios-Ex02\Primeiros-Exercicios-Ex02\obj\Debug\net10.0\Primeiros-Exercicios-Ex02.AssemblyInfo.cs
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\Primeiros-Exercicios-Ex02\Primeiros-Exercicios-Ex02\obj\Debug\net10.0\Primeiros-Exercicios-Ex02.csproj.CoreCompileInputs.cache
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\Primeiros-Exercicios-Ex02\Primeiros-Exercicios-Ex02\obj\Debug\net10.0\Primeiros-Exercicios-Ex02.dll
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\Primeiros-Exercicios-Ex02\Primeiros-Exercicios-Ex02\obj\Debug\net10.0\refint\Primeiros-Exercicios-Ex02.dll
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\Primeiros-Exercicios-Ex02\Primeiros-Exercicios-Ex02\obj\Debug\net10.0\Primeiros-Exercicios-Ex02.pdb
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\Primeiros-Exercicios-Ex02\Primeiros-Exercicios-Ex02\obj\Debug\net10.0\Primeiros-Exercicios-Ex02.genruntimeconfig.cache
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\Primeiros-Exercicios-Ex02\Primeiros-Exercicios-Ex02\obj\Debug\net10.0\ref\Primeiros-Exercicios-Ex02.dll

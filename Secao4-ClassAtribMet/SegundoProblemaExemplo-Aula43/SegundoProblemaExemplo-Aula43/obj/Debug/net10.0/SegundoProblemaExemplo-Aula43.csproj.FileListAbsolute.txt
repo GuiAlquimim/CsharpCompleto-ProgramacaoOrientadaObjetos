@@ -1,0 +1,14 @@
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\SegundoProblemaExemplo-Aula43\SegundoProblemaExemplo-Aula43\bin\Debug\net10.0\SegundoProblemaExemplo-Aula43.exe
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\SegundoProblemaExemplo-Aula43\SegundoProblemaExemplo-Aula43\bin\Debug\net10.0\SegundoProblemaExemplo-Aula43.deps.json
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\SegundoProblemaExemplo-Aula43\SegundoProblemaExemplo-Aula43\bin\Debug\net10.0\SegundoProblemaExemplo-Aula43.runtimeconfig.json
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\SegundoProblemaExemplo-Aula43\SegundoProblemaExemplo-Aula43\bin\Debug\net10.0\SegundoProblemaExemplo-Aula43.dll
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\SegundoProblemaExemplo-Aula43\SegundoProblemaExemplo-Aula43\bin\Debug\net10.0\SegundoProblemaExemplo-Aula43.pdb
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\SegundoProblemaExemplo-Aula43\SegundoProblemaExemplo-Aula43\obj\Debug\net10.0\SegundoProblemaExemplo-Aula43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\SegundoProblemaExemplo-Aula43\SegundoProblemaExemplo-Aula43\obj\Debug\net10.0\SegundoProblemaExemplo-Aula43.AssemblyInfoInputs.cache
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\SegundoProblemaExemplo-Aula43\SegundoProblemaExemplo-Aula43\obj\Debug\net10.0\SegundoProblemaExemplo-Aula43.AssemblyInfo.cs
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\SegundoProblemaExemplo-Aula43\SegundoProblemaExemplo-Aula43\obj\Debug\net10.0\SegundoProblemaExemplo-Aula43.csproj.CoreCompileInputs.cache
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\SegundoProblemaExemplo-Aula43\SegundoProblemaExemplo-Aula43\obj\Debug\net10.0\SegundoProblemaExemplo-Aula43.dll
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\SegundoProblemaExemplo-Aula43\SegundoProblemaExemplo-Aula43\obj\Debug\net10.0\refint\SegundoProblemaExemplo-Aula43.dll
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\SegundoProblemaExemplo-Aula43\SegundoProblemaExemplo-Aula43\obj\Debug\net10.0\SegundoProblemaExemplo-Aula43.pdb
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\SegundoProblemaExemplo-Aula43\SegundoProblemaExemplo-Aula43\obj\Debug\net10.0\SegundoProblemaExemplo-Aula43.genruntimeconfig.cache
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\SegundoProblemaExemplo-Aula43\SegundoProblemaExemplo-Aula43\obj\Debug\net10.0\ref\SegundoProblemaExemplo-Aula43.dll

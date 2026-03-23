@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\Exercicios CSharp\\Secao3-LogicaDeProgramacao\\Exercicios4-EstruturaFor6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBC886A-CE01-4B99-B64C-72C04836BAAD}|Exercicios4-EstruturaFor6\\Exercicios4-EstruturaFor6.csproj|c:\\dev\\exercicios csharp\\secao3-logicadeprogramacao\\exercicios4-estruturafor6\\exercicios4-estruturafor6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBC886A-CE01-4B99-B64C-72C04836BAAD}|Exercicios4-EstruturaFor6\\Exercicios4-EstruturaFor6.csproj|solutionrelative:exercicios4-estruturafor6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\Exercicios CSharp\\Secao3-LogicaDeProgramacao\\Exercicios4-EstruturaFor6\\Exercicios4-EstruturaFor6\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicios4-EstruturaFor6\\Program.cs",
+              "ToolTip": "C:\\Dev\\Exercicios CSharp\\Secao3-LogicaDeProgramacao\\Exercicios4-EstruturaFor6\\Exercicios4-EstruturaFor6\\Program.cs",
+              "RelativeToolTip": "Exercicios4-EstruturaFor6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:35:59.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

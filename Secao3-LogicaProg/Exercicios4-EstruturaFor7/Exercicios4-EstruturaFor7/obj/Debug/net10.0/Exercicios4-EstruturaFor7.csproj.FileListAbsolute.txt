@@ -1,0 +1,14 @@
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios4-EstruturaFor7\Exercicios4-EstruturaFor7\bin\Debug\net10.0\Exercicios4-EstruturaFor7.exe
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios4-EstruturaFor7\Exercicios4-EstruturaFor7\bin\Debug\net10.0\Exercicios4-EstruturaFor7.deps.json
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios4-EstruturaFor7\Exercicios4-EstruturaFor7\bin\Debug\net10.0\Exercicios4-EstruturaFor7.runtimeconfig.json
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios4-EstruturaFor7\Exercicios4-EstruturaFor7\bin\Debug\net10.0\Exercicios4-EstruturaFor7.dll
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios4-EstruturaFor7\Exercicios4-EstruturaFor7\bin\Debug\net10.0\Exercicios4-EstruturaFor7.pdb
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios4-EstruturaFor7\Exercicios4-EstruturaFor7\obj\Debug\net10.0\Exercicios4-EstruturaFor7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios4-EstruturaFor7\Exercicios4-EstruturaFor7\obj\Debug\net10.0\Exercicios4-EstruturaFor7.AssemblyInfoInputs.cache
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios4-EstruturaFor7\Exercicios4-EstruturaFor7\obj\Debug\net10.0\Exercicios4-EstruturaFor7.AssemblyInfo.cs
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios4-EstruturaFor7\Exercicios4-EstruturaFor7\obj\Debug\net10.0\Exercicios4-EstruturaFor7.csproj.CoreCompileInputs.cache
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios4-EstruturaFor7\Exercicios4-EstruturaFor7\obj\Debug\net10.0\Exercicios4-EstruturaFor7.dll
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios4-EstruturaFor7\Exercicios4-EstruturaFor7\obj\Debug\net10.0\refint\Exercicios4-EstruturaFor7.dll
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios4-EstruturaFor7\Exercicios4-EstruturaFor7\obj\Debug\net10.0\Exercicios4-EstruturaFor7.pdb
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios4-EstruturaFor7\Exercicios4-EstruturaFor7\obj\Debug\net10.0\Exercicios4-EstruturaFor7.genruntimeconfig.cache
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios4-EstruturaFor7\Exercicios4-EstruturaFor7\obj\Debug\net10.0\ref\Exercicios4-EstruturaFor7.dll

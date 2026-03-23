@@ -1,0 +1,14 @@
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios3-EstruturaWhile3\Exercicios3-EstruturaWhile3\bin\Debug\net10.0\Exercicios3-EstruturaWhile3.exe
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios3-EstruturaWhile3\Exercicios3-EstruturaWhile3\bin\Debug\net10.0\Exercicios3-EstruturaWhile3.deps.json
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios3-EstruturaWhile3\Exercicios3-EstruturaWhile3\bin\Debug\net10.0\Exercicios3-EstruturaWhile3.runtimeconfig.json
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios3-EstruturaWhile3\Exercicios3-EstruturaWhile3\bin\Debug\net10.0\Exercicios3-EstruturaWhile3.dll
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios3-EstruturaWhile3\Exercicios3-EstruturaWhile3\bin\Debug\net10.0\Exercicios3-EstruturaWhile3.pdb
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios3-EstruturaWhile3\Exercicios3-EstruturaWhile3\obj\Debug\net10.0\Exercicios3-EstruturaWhile3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios3-EstruturaWhile3\Exercicios3-EstruturaWhile3\obj\Debug\net10.0\Exercicios3-EstruturaWhile3.AssemblyInfoInputs.cache
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios3-EstruturaWhile3\Exercicios3-EstruturaWhile3\obj\Debug\net10.0\Exercicios3-EstruturaWhile3.AssemblyInfo.cs
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios3-EstruturaWhile3\Exercicios3-EstruturaWhile3\obj\Debug\net10.0\Exercicios3-EstruturaWhile3.csproj.CoreCompileInputs.cache
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios3-EstruturaWhile3\Exercicios3-EstruturaWhile3\obj\Debug\net10.0\Exercicios3-EstruturaWhile3.dll
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios3-EstruturaWhile3\Exercicios3-EstruturaWhile3\obj\Debug\net10.0\refint\Exercicios3-EstruturaWhile3.dll
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios3-EstruturaWhile3\Exercicios3-EstruturaWhile3\obj\Debug\net10.0\Exercicios3-EstruturaWhile3.pdb
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios3-EstruturaWhile3\Exercicios3-EstruturaWhile3\obj\Debug\net10.0\Exercicios3-EstruturaWhile3.genruntimeconfig.cache
+C:\Dev\Exercicios CSharp\Secao3-LogicaDeProgramacao\Exercicios3-EstruturaWhile3\Exercicios3-EstruturaWhile3\obj\Debug\net10.0\ref\Exercicios3-EstruturaWhile3.dll
