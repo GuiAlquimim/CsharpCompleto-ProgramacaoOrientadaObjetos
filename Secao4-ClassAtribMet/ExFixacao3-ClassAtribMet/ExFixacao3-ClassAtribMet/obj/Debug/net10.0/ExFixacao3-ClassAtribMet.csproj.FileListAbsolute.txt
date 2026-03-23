@@ -1,0 +1,14 @@
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\ExFixacao3-ClassAtribMet\ExFixacao3-ClassAtribMet\bin\Debug\net10.0\ExFixacao3-ClassAtribMet.exe
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\ExFixacao3-ClassAtribMet\ExFixacao3-ClassAtribMet\bin\Debug\net10.0\ExFixacao3-ClassAtribMet.deps.json
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\ExFixacao3-ClassAtribMet\ExFixacao3-ClassAtribMet\bin\Debug\net10.0\ExFixacao3-ClassAtribMet.runtimeconfig.json
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\ExFixacao3-ClassAtribMet\ExFixacao3-ClassAtribMet\bin\Debug\net10.0\ExFixacao3-ClassAtribMet.dll
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\ExFixacao3-ClassAtribMet\ExFixacao3-ClassAtribMet\bin\Debug\net10.0\ExFixacao3-ClassAtribMet.pdb
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\ExFixacao3-ClassAtribMet\ExFixacao3-ClassAtribMet\obj\Debug\net10.0\ExFixacao3-ClassAtribMet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\ExFixacao3-ClassAtribMet\ExFixacao3-ClassAtribMet\obj\Debug\net10.0\ExFixacao3-ClassAtribMet.AssemblyInfoInputs.cache
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\ExFixacao3-ClassAtribMet\ExFixacao3-ClassAtribMet\obj\Debug\net10.0\ExFixacao3-ClassAtribMet.AssemblyInfo.cs
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\ExFixacao3-ClassAtribMet\ExFixacao3-ClassAtribMet\obj\Debug\net10.0\ExFixacao3-ClassAtribMet.csproj.CoreCompileInputs.cache
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\ExFixacao3-ClassAtribMet\ExFixacao3-ClassAtribMet\obj\Debug\net10.0\ExFixacao3-ClassAtribMet.dll
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\ExFixacao3-ClassAtribMet\ExFixacao3-ClassAtribMet\obj\Debug\net10.0\refint\ExFixacao3-ClassAtribMet.dll
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\ExFixacao3-ClassAtribMet\ExFixacao3-ClassAtribMet\obj\Debug\net10.0\ExFixacao3-ClassAtribMet.pdb
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\ExFixacao3-ClassAtribMet\ExFixacao3-ClassAtribMet\obj\Debug\net10.0\ExFixacao3-ClassAtribMet.genruntimeconfig.cache
+C:\Dev\Exercicios CSharp\Secao4-ClassesAtributosMetodosMembrosEstaticos\ExFixacao3-ClassAtribMet\ExFixacao3-ClassAtribMet\obj\Debug\net10.0\ref\ExFixacao3-ClassAtribMet.dll

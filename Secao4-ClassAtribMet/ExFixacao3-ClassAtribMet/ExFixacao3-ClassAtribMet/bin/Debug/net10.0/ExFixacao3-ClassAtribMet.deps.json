@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ExFixacao3-ClassAtribMet/1.0.0": {
+        "runtime": {
+          "ExFixacao3-ClassAtribMet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExFixacao3-ClassAtribMet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
