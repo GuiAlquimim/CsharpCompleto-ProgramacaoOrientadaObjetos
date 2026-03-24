@@ -1,0 +1,15 @@
+C:\Dev\CsharpCompleto-ProgramacaoOrientadaObjetos\Secao5-ConstThisSobrecEncap\ExFixacao\ExFixacao\bin\Debug\net10.0\ExFixacao.exe
+C:\Dev\CsharpCompleto-ProgramacaoOrientadaObjetos\Secao5-ConstThisSobrecEncap\ExFixacao\ExFixacao\bin\Debug\net10.0\ExFixacao.deps.json
+C:\Dev\CsharpCompleto-ProgramacaoOrientadaObjetos\Secao5-ConstThisSobrecEncap\ExFixacao\ExFixacao\bin\Debug\net10.0\ExFixacao.runtimeconfig.json
+C:\Dev\CsharpCompleto-ProgramacaoOrientadaObjetos\Secao5-ConstThisSobrecEncap\ExFixacao\ExFixacao\bin\Debug\net10.0\ExFixacao.dll
+C:\Dev\CsharpCompleto-ProgramacaoOrientadaObjetos\Secao5-ConstThisSobrecEncap\ExFixacao\ExFixacao\bin\Debug\net10.0\ExFixacao.pdb
+C:\Dev\CsharpCompleto-ProgramacaoOrientadaObjetos\Secao5-ConstThisSobrecEncap\ExFixacao\ExFixacao\obj\Debug\net10.0\ExFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\CsharpCompleto-ProgramacaoOrientadaObjetos\Secao5-ConstThisSobrecEncap\ExFixacao\ExFixacao\obj\Debug\net10.0\ExFixacao.AssemblyInfoInputs.cache
+C:\Dev\CsharpCompleto-ProgramacaoOrientadaObjetos\Secao5-ConstThisSobrecEncap\ExFixacao\ExFixacao\obj\Debug\net10.0\ExFixacao.AssemblyInfo.cs
+C:\Dev\CsharpCompleto-ProgramacaoOrientadaObjetos\Secao5-ConstThisSobrecEncap\ExFixacao\ExFixacao\obj\Debug\net10.0\ExFixacao.csproj.CoreCompileInputs.cache
+C:\Dev\CsharpCompleto-ProgramacaoOrientadaObjetos\Secao5-ConstThisSobrecEncap\ExFixacao\ExFixacao\obj\Debug\net10.0\ExFixacao.sourcelink.json
+C:\Dev\CsharpCompleto-ProgramacaoOrientadaObjetos\Secao5-ConstThisSobrecEncap\ExFixacao\ExFixacao\obj\Debug\net10.0\ExFixacao.dll
+C:\Dev\CsharpCompleto-ProgramacaoOrientadaObjetos\Secao5-ConstThisSobrecEncap\ExFixacao\ExFixacao\obj\Debug\net10.0\refint\ExFixacao.dll
+C:\Dev\CsharpCompleto-ProgramacaoOrientadaObjetos\Secao5-ConstThisSobrecEncap\ExFixacao\ExFixacao\obj\Debug\net10.0\ExFixacao.pdb
+C:\Dev\CsharpCompleto-ProgramacaoOrientadaObjetos\Secao5-ConstThisSobrecEncap\ExFixacao\ExFixacao\obj\Debug\net10.0\ExFixacao.genruntimeconfig.cache
+C:\Dev\CsharpCompleto-ProgramacaoOrientadaObjetos\Secao5-ConstThisSobrecEncap\ExFixacao\ExFixacao\obj\Debug\net10.0\ref\ExFixacao.dll
