@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Estudante[] quartos = new Estudante[10];
 
@@ -10,7 +10,6 @@
             int n = int.Parse(Console.ReadLine());
 
             Console.WriteLine();
-
             for (int i = 0; i < n; i++)
             {
                 Console.Write("Nome do estudante: ");
